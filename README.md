@@ -15,8 +15,8 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Find the values of MSE , MAE and RMSE.
 
 ## Program And Output:
-# Developed by:SURIYA PRAKASH.S
-# Reg no:212223100055
+### Developed by:SURIYA PRAKASH.S
+### Reg no:212223100055
 ```
 import pandas as pd
 import numpy as np
